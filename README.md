@@ -1,12 +1,6 @@
-Here’s a complete `README.md` tailored for your **Weight Loss Tracker Flutter App** — formatted like the example you gave, and including tools, setup, features, and commands:
-
----
-
 # 🏋️‍♂️ AI-Powered Weight Loss Tracker App
 
 A beautifully designed Flutter app that helps users monitor and achieve their weight goals. Includes features like daily health tips, weight history charts, goal setting, Firebase integration, and more — all wrapped in a dark modern UI. Ideal for anyone pursuing a healthier lifestyle.
-
----
 
 ## 🚀 Features
 
@@ -18,8 +12,6 @@ A beautifully designed Flutter app that helps users monitor and achieve their we
 * 🔥 **Firebase Integration** for secure data storage
 * 📈 **Chart Visualizations** of weight history
 * 📦 **Cross-Platform Support**: Android, Web, Windows
-
----
 
 ## 🧰 Technologies Used
 
@@ -34,8 +26,6 @@ A beautifully designed Flutter app that helps users monitor and achieve their we
 * **Google Fonts**
 * **Android SDK / Emulator**
 * **Visual Studio Code**
-
----
 
 ## 🗂️ Project Structure
 
@@ -53,8 +43,6 @@ A beautifully designed Flutter app that helps users monitor and achieve their we
 📁 windows/              # Windows desktop build
 📄 pubspec.yaml          # Project dependencies
 ```
-
----
 
 ## ⚙️ Setup Instructions
 
