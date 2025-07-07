@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Weight Loss Tracker App
+# 🏋️‍♂️ Fitness App
 
 A beautifully designed Flutter android app that helps users monitor and achieve their weight goals. Includes features like daily health tips, weight history charts, goal setting, Firebase integration, and more — all wrapped in a dark modern UI. Ideal for anyone pursuing a healthier lifestyle.
 
