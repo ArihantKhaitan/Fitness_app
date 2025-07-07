@@ -138,27 +138,15 @@ void main() async {
   * Ensure your `google-services.json` is placed correctly.
   * Rebuild the app: `flutter clean && flutter run`
 
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to use and modify with attribution.
-
----
 
 ## 👤 Author
 
 **Arihant Khaitan**
 
-🔗 [GitHub](https://github.com/ArihantKhaitan)
-
----
-
 ## 🤝 Contributions
 
 Pull requests and feedback are welcome!
 Feel free to open an issue if you find a bug or want to suggest a new feature.
-
----
-
-Let me know if you want a version with badges or GIF demo too!
