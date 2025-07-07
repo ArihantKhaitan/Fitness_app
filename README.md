@@ -1,6 +1,6 @@
-# 🏋️‍♂️ AI-Powered Weight Loss Tracker App
+# 🏋️‍♂️ Weight Loss Tracker App
 
-A beautifully designed Flutter app that helps users monitor and achieve their weight goals. Includes features like daily health tips, weight history charts, goal setting, Firebase integration, and more — all wrapped in a dark modern UI. Ideal for anyone pursuing a healthier lifestyle.
+A beautifully designed Flutter android app that helps users monitor and achieve their weight goals. Includes features like daily health tips, weight history charts, goal setting, Firebase integration, and more — all wrapped in a dark modern UI. Ideal for anyone pursuing a healthier lifestyle.
 
 ## 🚀 Features
 
@@ -92,8 +92,6 @@ flutter build web
 flutter build windows
 ```
 
----
-
 ## 🔐 Firebase Configuration
 
 Ensure the following Firebase packages are added in `pubspec.yaml`:
@@ -114,17 +112,13 @@ void main() async {
 }
 ```
 
----
-
 ## 💡 How to Use
 
-* Launch the app and sign in or continue anonymously.
+* Launch the app and sign in.
 * Add your current weight daily.
 * Set a target weight and track your progress.
 * View charts of your weight changes.
 * Get tips and motivational prompts to stay consistent.
-
----
 
 ## 🧪 Debugging
 
